@@ -1,2 +1,2 @@
 # jkauffman-itmd361
-For class use 
+Jordan Kauffman's repository for ITMD361
