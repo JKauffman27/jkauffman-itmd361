@@ -1,2 +1,2 @@
 # jkauffman-itmd361
-Jordan Kauffman's repository for ITMD361
+The first lab assignment for ITMD361 
